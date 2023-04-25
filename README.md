@@ -1,1 +1,1 @@
-# Aiogram bot template
+# Aiogram bot
